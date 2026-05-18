@@ -16,4 +16,4 @@ This repository contains my solutions to LeetCode problems 🧩
 
 ## 💻 Language
 ☕ Java 
-Test contribution
+Daily LeetCode practice 🚀
